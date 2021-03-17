@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://sitostorico.madonnasantorosario.it/sitemap.xml
+Sitemap: https://www.sitostorico.madonnasantorosario.it/sitemap.xml
