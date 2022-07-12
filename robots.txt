@@ -31,4 +31,5 @@ Disallow: /archivio/calendario-2009/
 Disallow: /archivio/calendatio-2010/
 Disallow: /archivio/calendario-2011/
 Disallow: /about/
+Disallow: /privacy/
 Sitemap: https://www.sitostorico.madonnasantorosario.it/sitemap.xml
